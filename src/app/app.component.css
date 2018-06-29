@@ -1,0 +1,12 @@
+
+h1 {
+    color: Black;
+    background-color : #236AB9;
+    border: 10px solid #FC7307;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
